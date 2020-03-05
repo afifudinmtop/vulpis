@@ -1,0 +1,34 @@
+{
+  "name": "VULPIS, Webssite Status Monitor",
+  "short_name": "VULPIS",
+  "icons": [{
+    "src": "./image/vulpis-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "./image/vulpis-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "./image/vulpis-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "./image/vulpis-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "./image/vulpis-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "./image/vulpis-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
